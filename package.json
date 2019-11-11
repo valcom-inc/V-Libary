@@ -1,0 +1,38 @@
+{
+  "name": "@valcom/v-libary",
+  "version": "0.0.1",
+  "description": "Component Libary to be shared accross projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "styleguidist server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valcom-inc/V-Libary.git"
+  },
+  "author": "Darrell Richards Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valcom-inc/V-Libary/issues"
+  },
+  "homepage": "https://github.com/valcom-inc/V-Libary#readme",
+  "peerDependencies": {
+    "@emotion/core": "10.x",
+    "@emotion/styled": "10.x",
+    "react": "^16.x",
+    "react-dom": "^16.x"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "babel-loader": "^8.0.6",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-styleguidist": "^10.2.0",
+    "webpack": "^4.41.2"
+  }
+}
