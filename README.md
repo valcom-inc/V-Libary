@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/valcom-inc/V-Libary.svg?branch=master)](https://travis-ci.org/valcom-inc/V-Libary)
